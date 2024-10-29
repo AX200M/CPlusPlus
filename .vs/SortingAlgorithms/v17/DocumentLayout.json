@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\c013709o\\source\\repos\\SortingAlgorithms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C42F234-3834-4000-9440-FA7F83F06F39}|SortingAlgorithms\\SortingAlgorithms.vcxproj|C:\\Users\\c013709o\\source\\repos\\SortingAlgorithms\\SortingAlgorithms\\SortingAlgorithms.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6C42F234-3834-4000-9440-FA7F83F06F39}|SortingAlgorithms\\SortingAlgorithms.vcxproj|solutionrelative:SortingAlgorithms\\SortingAlgorithms.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C42F234-3834-4000-9440-FA7F83F06F39}|SortingAlgorithms\\SortingAlgorithms.vcxproj|C:\\Users\\c013709o\\source\\repos\\SortingAlgorithms\\SortingAlgorithms\\BinarySearch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6C42F234-3834-4000-9440-FA7F83F06F39}|SortingAlgorithms\\SortingAlgorithms.vcxproj|solutionrelative:SortingAlgorithms\\BinarySearch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BinarySearch.cpp",
+              "DocumentMoniker": "C:\\Users\\c013709o\\source\\repos\\SortingAlgorithms\\SortingAlgorithms\\BinarySearch.cpp",
+              "RelativeDocumentMoniker": "SortingAlgorithms\\BinarySearch.cpp",
+              "ToolTip": "C:\\Users\\c013709o\\source\\repos\\SortingAlgorithms\\SortingAlgorithms\\BinarySearch.cpp",
+              "RelativeToolTip": "SortingAlgorithms\\BinarySearch.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-29T09:44:30.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SortingAlgorithms.cpp",
+              "DocumentMoniker": "C:\\Users\\c013709o\\source\\repos\\SortingAlgorithms\\SortingAlgorithms\\SortingAlgorithms.cpp",
+              "RelativeDocumentMoniker": "SortingAlgorithms\\SortingAlgorithms.cpp",
+              "ToolTip": "C:\\Users\\c013709o\\source\\repos\\SortingAlgorithms\\SortingAlgorithms\\SortingAlgorithms.cpp",
+              "RelativeToolTip": "SortingAlgorithms\\SortingAlgorithms.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-29T09:28:32.659Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
